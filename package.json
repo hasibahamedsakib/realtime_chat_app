@@ -1,0 +1,32 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibahamedsakib/realtime_chat_app.git"
+  },
+  "author": "Hasib Ahamed Sakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasibahamedsakib/realtime_chat_app/issues"
+  },
+  "homepage": "https://github.com/hasibahamedsakib/realtime_chat_app#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "http-errors": "^2.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
